@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "todolist",
+    "name": "ToDo List",
     "slug": "todolist",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,13 +20,8 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.matheusgermano.todolist",
+      "versionCode": 1
     }
   }
 }
